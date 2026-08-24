@@ -27,14 +27,14 @@
 ![FSM](https://img.shields.io/badge/FSM-ff9f40?style=flat-square)
 ![PID](https://img.shields.io/badge/PID-ff9f40?style=flat-square)
 ![Stanley](https://img.shields.io/badge/Stanley_Control-ff9f40?style=flat-square)
-![Path](https://img.shields.io/badge/경로_생성-ff9f40?style=flat-square)
-![Safeguard](https://img.shields.io/badge/Safe--guard_로직-ff9f40?style=flat-square)
+![Path](https://img.shields.io/badge/Path_Maker-ff9f40?style=flat-square)
+![Safeguard](https://img.shields.io/badge/Safe--guard_Logic-ff9f40?style=flat-square)
 
 **Middleware / Comm**
 
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![rosserial](https://img.shields.io/badge/rosserial_(STM32H7_포팅)-22314E?style=flat-square)
+![rosserial](https://img.shields.io/badge/rosserial_(STM32H7_porting)-22314E?style=flat-square)
 ![MQTT](https://img.shields.io/badge/MQTT_(Paho)-660066?style=flat-square&logo=mqtt&logoColor=white)
 ![DMA](https://img.shields.io/badge/DMA_%2F_IDLE_Interrupt-660066?style=flat-square)
 
@@ -50,9 +50,9 @@
 **Mapping / Fusion**
 
 ![Cartographer](https://img.shields.io/badge/Cartographer_SLAM-3776AB?style=flat-square)
-![Fusion](https://img.shields.io/badge/센서_퓨전-3776AB?style=flat-square)
+![Fusion](https://img.shields.io/badge/Sensor_Fusion-3776AB?style=flat-square)
 ![Odometry](https://img.shields.io/badge/Odometry-3776AB?style=flat-square)
-![DigitalTwin](https://img.shields.io/badge/디지털_트윈-3776AB?style=flat-square)
+![DigitalTwin](https://img.shields.io/badge/Digital_Twin-3776AB?style=flat-square)
 
 **Interface / Data**
 
@@ -61,6 +61,6 @@
 ![LLM](https://img.shields.io/badge/Local_LLM-6F4E9C?style=flat-square)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=googlemediapipe&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![Dashboard](https://img.shields.io/badge/실시간_대시보드-6F4E9C?style=flat-square)
+![Dashboard](https://img.shields.io/badge/Realtime_Dashboard-6F4E9C?style=flat-square)
 
 </div>
