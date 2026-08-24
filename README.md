@@ -44,7 +44,6 @@
 ![STM32](https://img.shields.io/badge/STM32H7-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![DeepX](https://img.shields.io/badge/DEEPX_NPU-00A19A?style=flat-square)
 ![Hailo](https://img.shields.io/badge/Hailo--8L-00A19A?style=flat-square)
-![PCA9685](https://img.shields.io/badge/PCA9685-00A19A?style=flat-square)
 ![IMU](https://img.shields.io/badge/IMU_%2F_Touch_Sensor-00A19A?style=flat-square)
 
 **Mapping / Fusion**
