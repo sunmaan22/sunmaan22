@@ -1,6 +1,6 @@
 <div align="center">
 
-# sunmaan22
+# SUNMAAN
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sunmaan22.github.io-14c7ae?style=for-the-badge)](https://sunmaan22.github.io)
 [![Email](https://img.shields.io/badge/Email-sunmaan22%40gmail.com-14c7ae?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunmaan22@gmail.com)
