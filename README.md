@@ -22,10 +22,8 @@
 
 **Planning / Control**
 
-![FSM](https://img.shields.io/badge/FSM-ff9f40?style=flat-square)
 ![PID](https://img.shields.io/badge/PID-ff9f40?style=flat-square)
 ![Stanley](https://img.shields.io/badge/Stanley_Control-ff9f40?style=flat-square)
-![Path](https://img.shields.io/badge/Path_Maker-ff9f40?style=flat-square)
 
 **Middleware / Comm**
 
