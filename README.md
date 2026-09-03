@@ -36,6 +36,8 @@
 
 ![RPi](https://img.shields.io/badge/Raspberry_Pi_4%2F5-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32H7-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR_ATmega128-03234B?style=flat-square&logo=arm&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-52B043?style=flat-square&logo=freertos&logoColor=white)
 ![DeepX](https://img.shields.io/badge/DEEPX_NPU-00A19A?style=flat-square)
 ![Hailo](https://img.shields.io/badge/Hailo--8L-00A19A?style=flat-square)
 
@@ -54,3 +56,12 @@
 ![Telegram](https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
 </div>
+
+---
+
+### 🚀 Projects
+
+| | |
+|---|---|
+| [**BADUK — 시각장애인 안내로봇**](https://github.com/sunmaan22/Guide_Robot_for_Blind_Person) | Raspberry Pi(ROS1) ↔ STM32H7(rosserial 포팅)  이기종 안내로봇. 웨이크워드·STT/TTS, GPS 경로계획, LiDAR 장애물 정지, 목줄·조이스틱 유도. |
+| [**RTOS Ceiling Fan — ATmega128**](https://github.com/sunmaan22/FreeRTOS_Ceiling_Fan) | FreeRTOS V11.1.0 위 실링팬 컨트롤러. PWM 팬 9단·초 단위 카운트다운 타이머·CDS 야간모드, FND/LCD/키/부저/앱/CDS **6개 태스크** + 큐·태스크 알림. |
