@@ -36,7 +36,7 @@
 
 ![RPi](https://img.shields.io/badge/Raspberry_Pi_4%2F5-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32H7-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![AVR](https://img.shields.io/badge/AVR_ATmega128-03234B?style=flat-square&logo=arm&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-03234B?style=flat-square&logo=arm&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-52B043?style=flat-square&logo=freertos&logoColor=white)
 ![DeepX](https://img.shields.io/badge/DEEPX_NPU-00A19A?style=flat-square)
 ![Hailo](https://img.shields.io/badge/Hailo--8L-00A19A?style=flat-square)
