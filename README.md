@@ -57,11 +57,3 @@
 
 </div>
 
----
-
-### 🚀 Projects
-
-| | |
-|---|---|
-| [**BADUK — 시각장애인 안내로봇**](https://github.com/sunmaan22/Guide_Robot_for_Blind_Person) | Raspberry Pi(ROS1) ↔ STM32H7(rosserial 포팅)  이기종 안내로봇. 웨이크워드·STT/TTS, GPS 경로계획, LiDAR 장애물 정지, 목줄·조이스틱 유도. |
-| [**RTOS Ceiling Fan — ATmega128**](https://github.com/sunmaan22/FreeRTOS_Ceiling_Fan) | FreeRTOS V11.1.0 위 실링팬 컨트롤러. PWM 팬 9단·초 단위 카운트다운 타이머·CDS 야간모드, FND/LCD/키/부저/앱/CDS **6개 태스크** + 큐·태스크 알림. |
