@@ -29,7 +29,7 @@
 
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![rosserial](https://img.shields.io/badge/rosserial_(STM32H7_porting)-22314E?style=flat-square)
+![rosserial](https://img.shields.io/badge/rosserial-22314E?style=flat-square)
 ![MQTT](https://img.shields.io/badge/MQTT_(Paho)-660066?style=flat-square&logo=mqtt&logoColor=white)
 
 **Edge AI / Embedded**
