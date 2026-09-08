@@ -20,7 +20,6 @@ education:  아주대학교 전자공학과  ·  Ajou University, Dept. of Elect
 focus:      [ 자율주행 인지·제어, 임베디드 / RTOS, 엣지 AI, 차량 SW 프로세스·기능안전 ]
 languages:  [ Python, C++, C ]
 platforms:  [ ROS / ROS2, Raspberry Pi, STM32, ATmega, Hailo-8L NPU, MORAI Sim ]
-motto:      "센서에서 제어까지, 직접 굴려보며 배운다"
 ```
 
 ---
