@@ -43,14 +43,22 @@
 
 | | 프로젝트 | 한 줄 소개 | 스택 |
 |:-:|---|---|---|
+| 🛡️ | **[multi-sensor-safety-monitor](https://github.com/Jeomyo/multi-sensor-safety-monitor)** | LiDAR·CCTV 융합 디지털 트윈 안전 모니터링 (기업제안 캡스톤) — DeepX NPU 엣지 추론(YOLOv8-n INT8)으로 작업자·안전장구 탐지, Cartographer SLAM 지도 위에서 3D→2D 위치를 융합해 MQTT 관제 대시보드로 전송 &nbsp;·&nbsp; [상세](https://sunmaan22.github.io/projects/capstone2.html) | `ROS2` · `DeepX NPU` · `YOLOv8` · `SLAM` · `MQTT` |
 | 🚗 | **[Kookmin SDV](https://github.com/sunmaan22/Kookmin_SDV)** | 국민대 SDV 자율주행 경진대회 예선 — Xycar 한 대로 차선 추종 · 라바콘 회피 · YOLOv5 추월 · 신호등 인식까지 처리한 ROS1 주행 스택 | `ROS1` · `Python` · `OpenCV` · `YOLOv5` |
 | 🛰️ | **[FMA 2025](https://github.com/sunmaan22/FMA_2025)** | MORAI 시뮬레이터 자율주행 대회 패키지 — GPS/IMU 측위, 카메라·라이다 인지, 경로 계획, 장애물 회피, 제어 전 구간 | `ROS1` · `Python` · `YOLOv10` · `DBSCAN` |
 | 🐾 | **[BADUK](https://github.com/sunmaan22/Guide_Robot_for_Blind_Person)** | 시각장애인 안내로봇 — Raspberry Pi(인지·경로·음성) + STM32(구동·조향·안전)를 rosserial로 연결, "하이 바둑" 웨이크워드 | `ROS1` · `Python` · `STM32` · `Porcupine` |
 | 🎥 | **[Watchful](https://github.com/sunmaan22/Personal_Cam_version.2.0)** | 산업현장 근로자 안전 모니터링 스마트캠 — 손동작 핫키 · 낙상 실시간 감지 · 텔레그램 알림, 퇴근 시 로컬 LLM 리포트 자동 생성 | `RPi 5` · `Hailo-8L` · `MQTT` · `Ollama` · `C++` |
 | 🌀 | **[RTOS Ceiling Fan](https://github.com/sunmaan22/FreeRTOS_Ceiling_Fan)** | ATmega128 + FreeRTOS 실링팬 컨트롤러 — 9단 PWM, 카운트다운 타이머, 조도 기반 야간 모드를 6개 태스크가 협력 | `FreeRTOS` · `ATmega128` · `C` |
 | 🔧 | **[SDV MCU Project](https://github.com/sunmaan22/SDV_MCU_Project)** | 5개 ECU로 구현하는 모빌리티 SDV — CAN · LIN · RTOS 기반 벤치 검증부터 RC카 통합까지 | `STM32` · `ESP32` · `CAN` · `LIN` |
-| 📚 | **[Algorithm Study](https://github.com/sunmaan22/Algorithm_Code_Theory_Study)** | 알고리즘 · 코딩테스트 풀이와 이론 정리 | `C++` |
-| 🧩 | **[HINT Embedded SW](https://github.com/sunmaan22/HINT_Embedded_SW)** | 임베디드 SW 교육 기록 — ATmega 실습 + 차량공학 기초 / 개발 프로세스(A-SPICE) · 기능안전(ISO 26262) 노트 | `C` · `Markdown` |
+
+---
+
+## 📖 Study
+
+| | 리포 | 내용 |
+|:-:|---|---|
+| 📚 | **[Algorithm Study](https://github.com/sunmaan22/Algorithm_Code_Theory_Study)** | 알고리즘 · 코딩테스트 풀이와 이론 정리 |
+| 🧩 | **[HINT Embedded SW](https://github.com/sunmaan22/HINT_Embedded_SW)** | 임베디드 SW 교육 기록 — ATmega 실습 + 차량공학 기초 / 개발 프로세스(A-SPICE) · 기능안전(ISO 26262) 노트 |
 
 ---
 
