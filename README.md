@@ -118,9 +118,3 @@ platforms:  [ ROS / ROS2, Raspberry Pi, STM32, ATmega, Hailo-8L NPU, MORAI Sim ]
 </picture>
 
 </div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sunmaan22&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-
-</div>
