@@ -2,7 +2,7 @@
 <!--                            SUNMAAN                              -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<br/>
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sunmaan22.github.io-14C7AE?style=for-the-badge&logo=githubpages&logoColor=white)](https://sunmaan22.github.io)
 [![Email](https://img.shields.io/badge/Email-sunmaan22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunmaan22@gmail.com)
@@ -14,13 +14,28 @@
 
 ## 👋 About Me
 
-```yaml
-name:       SUNMAAN
-education:  아주대학교 전자공학과  ·  Ajou University, Dept. of Electronic Engineering
-focus:      [ 자율주행 인지·제어, 임베디드 / RTOS, 엣지 AI, 차량 SW 프로세스·기능안전 ]
-languages:  [ Python, C++, C ]
-platforms:  [ ROS / ROS2, Raspberry Pi, STM32, ATmega, Hailo-8L NPU, MORAI Sim ]
-```
+<table>
+  <tr>
+    <td>🎓</td>
+    <td><b>Education</b></td>
+    <td>아주대학교 전자공학과 &nbsp;·&nbsp; Ajou University, Dept. of Electronic Engineering</td>
+  </tr>
+  <tr>
+    <td>🔭</td>
+    <td><b>Focus</b></td>
+    <td>자율주행 인지·제어 &nbsp;·&nbsp; 임베디드 / RTOS &nbsp;·&nbsp; 엣지 AI &nbsp;·&nbsp; 차량 SW 프로세스·기능안전</td>
+  </tr>
+  <tr>
+    <td>💻</td>
+    <td><b>Languages</b></td>
+    <td>Python &nbsp;·&nbsp; C++ &nbsp;·&nbsp; C</td>
+  </tr>
+  <tr>
+    <td>🧰</td>
+    <td><b>Platforms</b></td>
+    <td>ROS / ROS2 &nbsp;·&nbsp; Raspberry Pi &nbsp;·&nbsp; STM32 &nbsp;·&nbsp; ATmega &nbsp;·&nbsp; Hailo-8L NPU &nbsp;·&nbsp; MORAI Sim</td>
+  </tr>
+</table>
 
 ---
 
@@ -95,16 +110,11 @@ platforms:  [ ROS / ROS2, Raspberry Pi, STM32, ATmega, Hailo-8L NPU, MORAI Sim ]
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sunmaan22&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=14C7AE&icon_color=14C7AE&text_color=C9D1D9" alt="stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sunmaan22&hide_border=true&background=0D1117&stroke=14C7AE&ring=14C7AE&fire=14C7AE&currStreakLabel=14C7AE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
-
-<br/>
-
-<img width="820" src="https://github-readme-activity-graph.vercel.app/graph?username=sunmaan22&bg_color=0D1117&color=14C7AE&line=14C7AE&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
+<img height="170" src="https://streak-stats.demolab.com/?user=sunmaan22&hide_border=true&background=0D1117&stroke=14C7AE&ring=14C7AE&fire=14C7AE&currStreakLabel=14C7AE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
 
 </div>
 
