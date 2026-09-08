@@ -2,10 +2,6 @@
 <!--                            SUNMAAN                              -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=14C7AE&center=true&vCenter=true&width=700&lines=Electronic+Engineering+%40+Ajou+University;Autonomous+Driving+%C2%B7+Embedded+%C2%B7+Edge+AI;Python++%7C++C%2B%2B++%7C++C" alt="typing" />
-
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sunmaan22.github.io-14C7AE?style=for-the-badge&logo=githubpages&logoColor=white)](https://sunmaan22.github.io)
