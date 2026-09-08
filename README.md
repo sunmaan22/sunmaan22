@@ -43,7 +43,7 @@
 
 | | 프로젝트 | 한 줄 소개 | 스택 |
 |:-:|---|---|---|
-| 🛡️ | **[multi-sensor-safety-monitor](https://github.com/Jeomyo/multi-sensor-safety-monitor)** | LiDAR·CCTV 융합 디지털 트윈 안전 모니터링 (기업제안 캡스톤) — DeepX NPU 엣지 추론(YOLOv8-n INT8)으로 작업자·안전장구 탐지, Cartographer SLAM 지도 위에서 3D→2D 위치를 융합해 MQTT 관제 대시보드로 전송 &nbsp;·&nbsp; | `ROS2` · `DeepX NPU` · `YOLOv8` · `SLAM` · `MQTT` |
+| 🛡️ | **[multi-sensor-safety-monitor](https://github.com/Jeomyo/multi-sensor-safety-monitor)** | LiDAR·CCTV 융합 디지털 트윈 안전 모니터링 (기업제안 캡스톤) — DeepX NPU 엣지 추론(YOLOv8-n INT8)으로 작업자·안전장구 탐지, Cartographer SLAM 지도 위에서 3D→2D 위치를 융합해 MQTT 관제 대시보드로 전송 | `ROS2` · `DeepX NPU` · `YOLOv8` · `SLAM` · `MQTT` |
 | 🚗 | **[Kookmin SDV](https://github.com/sunmaan22/Kookmin_SDV)** | 국민대 SDV 자율주행 경진대회 예선 — Xycar 한 대로 차선 추종 · 라바콘 회피 · YOLOv5 추월 · 신호등 인식까지 처리한 ROS1 주행 스택 | `ROS1` · `Python` · `OpenCV` · `YOLOv5` |
 | 🛰️ | **[FMA 2025](https://github.com/sunmaan22/FMA_2025)** | MORAI 시뮬레이터 자율주행 대회 패키지 — GPS/IMU 측위, 카메라·라이다 인지, 경로 계획, 장애물 회피, 제어 전 구간 | `ROS1` · `Python` · `YOLOv10` · `DBSCAN` |
 | 🐾 | **[BADUK](https://github.com/sunmaan22/Guide_Robot_for_Blind_Person)** | 시각장애인 안내로봇 — Raspberry Pi(인지·경로·음성) + STM32(구동·조향·안전)를 rosserial로 연결, "하이 바둑" 웨이크워드 | `ROS1` · `Python` · `STM32` · `Porcupine` |
