@@ -107,7 +107,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_4/5-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Hailo](https://img.shields.io/badge/Hailo--8L_NPU-00A19A?style=for-the-badge)
 ![DeepX](https://img.shields.io/badge/DEEPX_NPU-00A19A?style=for-the-badge)
-![Linux SBC](https://img.shields.io/badge/Linux_SBC-333333?style=for-the-badge&logo=linux&logoColor=white)
 
 **Tooling**
 
